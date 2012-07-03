@@ -1,0 +1,4 @@
+AuthName "Une authentification est requise pour accéder à THE PAGE"
+AuthType Basic
+AuthUserFile "/site/zone_secrete/.htpasswd"
+Require valid-user
