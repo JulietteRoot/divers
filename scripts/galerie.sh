@@ -1,4 +1,5 @@
 #!/bin/bash
+# test
 
 debut_page='<!DOCTYPE html> <html> <head> <title>Ma galerie</title> <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> <link rel="stylesheet" type="text/css" href="LeStyle.css" /> </head> <body> <p>'
 
